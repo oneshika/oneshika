@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oneshika
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning Product Design
-- 💞️ I’m looking to collaborate withn fellow product designers
+- 💞️ I’m looking to collaborate with fellow product designers
 - 📫 How to reach me on oneshika2@gmail.com
 <!---
 oneshika/oneshika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
